@@ -1,7 +1,3 @@
-Here’s a **clean, structured Week 4 plan** you can drop straight into a course syllabus or learning roadmap. I’ve organized it into **learning flow → practice → mini-project**, with **curated resources** at each stage.
-
----
-
 # **WEEK 4 — Introduction to Speech Processing**
 
 ## **Learning Objectives**
